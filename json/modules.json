@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1727323384574,
+  "timestamp": 1727323929332,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -105,8 +105,8 @@
     {
       "id": "audio-misc-settings",
       "name": "Audio misc. settings",
-      "version": "v1.3.7",
-      "version_code": 1307,
+      "version": "v1.3.8",
+      "version_code": 1308,
       "author": "zyhk",
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "metadata": {
@@ -115,6 +115,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues"
       },
       "versions": [
+        {
+          "timestamp": 1725864277000,
+          "version": "v1.3.8 (1308)",
+          "version_code": 1308,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-misc-settings/1308.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-misc-settings/1308.md"
+        },
         {
           "timestamp": 1718274057000,
           "version": "v1.3.7 (1307)",
@@ -302,8 +309,8 @@
     {
       "id": "chroot-distro",
       "name": "chroot-distro",
-      "version": "1.0.0",
-      "version_code": 2,
+      "version": "1.1.4",
+      "version_code": 6,
       "author": "@YasserNull",
       "description": "install linux distributions on android",
       "metadata": {
@@ -311,6 +318,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
       },
       "versions": [
+        {
+          "timestamp": 1726418045000,
+          "version": "1.1.4 (6)",
+          "version_code": 6,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/chroot-distro/6.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1710598878000,
           "version": "1.0.0 (2)",
@@ -1241,17 +1255,24 @@
     },
     {
       "id": "NavBar_Resize",
-      "name": "36DPI NavBar AOSP",
-      "version": "v1.1",
-      "version_code": 11,
+      "name": "40DPI NavBar AOSP",
+      "version": "v1.2",
+      "version_code": 12,
       "author": "CrazyBytesVE",
-      "description": "Barra de Navegación reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
+      "description": "Barra de Navegación reducida a 40DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
       "metadata": {
         "license": "GPL-2.0",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues"
       },
       "versions": [
+        {
+          "timestamp": 1725221835000,
+          "version": "v1.2 (12)",
+          "version_code": 12,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize/12.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize/12.md"
+        },
         {
           "timestamp": 1661028252000,
           "version": "v1.1 (11)",
@@ -1548,16 +1569,23 @@
     {
       "id": "resampling-for-cheapies",
       "name": "Resampling for cheapies",
-      "version": "v1.0.2",
-      "version_code": 1002,
+      "version": "v2.0.0",
+      "version_code": 2000,
       "author": "zyhk",
-      "description": "For avoiding muddy distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer.",
+      "description": "For avoiding \"cheapie sound\" distortion like a thin veiling smokescreen specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this module sets near ideal re-sampling which involves special digital filtering at the system-wide mixer.",
       "metadata": {
         "license": "AGPL-3.0",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/issues"
       },
       "versions": [
+        {
+          "timestamp": 1724858594000,
+          "version": "v2.0.0 (2000)",
+          "version_code": 2000,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/2000.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/2000.md"
+        },
         {
           "timestamp": 1719406668000,
           "version": "v1.0.2 (1002)",
@@ -1708,8 +1736,8 @@
     {
       "id": "sqlite3",
       "name": "SQLite for arm, arm64, x86 and x64 devices",
-      "version": "v3.46.0",
-      "version_code": 20240615,
+      "version": "v3.46.1",
+      "version_code": 20240825,
       "author": "Rojen Zaman",
       "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
       "metadata": {
@@ -1718,6 +1746,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/issues"
       },
       "versions": [
+        {
+          "timestamp": 1724538295000,
+          "version": "v3.46.1 (20240825)",
+          "version_code": 20240825,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sqlite3/20240825.zip",
+          "changelog": ""
+        },
         {
           "timestamp": 1718475131000,
           "version": "v3.46.0 (20240615)",
@@ -1995,8 +2030,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.6",
-      "version_code": 1506,
+      "version": "v1.5.7",
+      "version_code": 1507,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "metadata": {
@@ -2005,6 +2040,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues"
       },
       "versions": [
+        {
+          "timestamp": 1725864165000,
+          "version": "v1.5.7 (1507)",
+          "version_code": 1507,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/usb-samplerate-unlocker/1507.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/usb-samplerate-unlocker/1507.md"
+        },
         {
           "timestamp": 1713443976000,
           "version": "v1.5.6 (1506)",

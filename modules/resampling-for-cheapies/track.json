@@ -2,12 +2,19 @@
   "module": {
     "id": "resampling-for-cheapies",
     "name": "Resampling for cheapies",
-    "version": "v1.0.2",
-    "version_code": 1002,
+    "version": "v2.0.0",
+    "version_code": 2000,
     "author": "zyhk",
-    "description": "For avoiding muddy distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer."
+    "description": "For avoiding \"cheapie sound\" distortion like a thin veiling smokescreen specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this module sets near ideal re-sampling which involves special digital filtering at the system-wide mixer."
   },
   "versions": [
+    {
+      "timestamp": 1724858594000,
+      "version": "v2.0.0 (2000)",
+      "version_code": 2000,
+      "zip_file": "2000.zip",
+      "changelog": "2000.md"
+    },
     {
       "timestamp": 1719406668000,
       "version": "v1.0.2 (1002)",
