@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1719868427533,
+  "timestamp": 1727323384574,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -9,8 +9,8 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3",
-      "version_code": 4,
+      "version": "v1.3.1",
+      "version_code": 5,
       "author": "nedorazrab0",
       "description": "Protection from bootloop",
       "metadata": {
@@ -19,6 +19,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues"
       },
       "versions": [
+        {
+          "timestamp": 1721435287000,
+          "version": "v1.3.1 (5)",
+          "version_code": 5,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/5.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/5.md"
+        },
         {
           "timestamp": 1718056739000,
           "version": "v1.3 (4)",
@@ -1157,8 +1164,8 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v4.2.1",
-      "version_code": 18,
+      "version": "v4.2.2",
+      "version_code": 19,
       "author": "Person0z",
       "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device – no entry for malware, bugs, or party crashers!",
       "metadata": {
@@ -1166,6 +1173,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
       },
       "versions": [
+        {
+          "timestamp": 1727323368798,
+          "version": "v4.2.2 (19)",
+          "version_code": 19,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/19.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/19.md"
+        },
         {
           "timestamp": 1719068467831,
           "version": "v4.2.1 (18)",
@@ -1178,8 +1192,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.4-0",
-      "version_code": 30440,
+      "version": "Revived 4.1.0-0",
+      "version_code": 40100,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "metadata": {
@@ -1188,6 +1202,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/issues"
       },
       "versions": [
+        {
+          "timestamp": 1725799231000,
+          "version": "Revived 4.1.0-0 (40100)",
+          "version_code": 40100,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microg_installer/40100.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microg_installer/40100.md"
+        },
         {
           "timestamp": 1716033244000,
           "version": "Revived 3.4.4-0 (30440)",
@@ -1761,8 +1782,8 @@
     {
       "id": "systemless_adblocker",
       "name": "Systemless Adblocker",
-      "version": "1.6",
-      "version_code": 106,
+      "version": "1.7",
+      "version_code": 107,
       "author": "burhanverse",
       "description": "An efficient adblocker based out of @gloeyisk's systemless-host module with no user interface & the lastest hosts from github@StevenBlack",
       "metadata": {
@@ -1771,6 +1792,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/issues"
       },
       "versions": [
+        {
+          "timestamp": 1722018915000,
+          "version": "1.7 (107)",
+          "version_code": 107,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/107.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/107.md"
+        },
         {
           "timestamp": 1717798630000,
           "version": "1.6 (106)",
@@ -1852,8 +1880,8 @@
     {
       "id": "trichromelibrary-squoosh",
       "name": "TrichromeLibrary Squoosh",
-      "version": "v1.4",
-      "version_code": 20220623,
+      "version": "v1.5",
+      "version_code": 20240809,
       "author": "entr0pia@GitHub",
       "description": "Remove the outdated TrichromeLibrary after reboot | 重启后移除过时的 TrichromeLibrary",
       "metadata": {
@@ -1862,6 +1890,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues"
       },
       "versions": [
+        {
+          "timestamp": 1723216935000,
+          "version": "v1.5 (20240809)",
+          "version_code": 20240809,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/trichromelibrary-squoosh/20240809.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/trichromelibrary-squoosh/20240809.md"
+        },
         {
           "timestamp": 1655967999000,
           "version": "v1.4 (20220623)",
