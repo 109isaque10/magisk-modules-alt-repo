@@ -1,3 +1,0 @@
-- Fixed installation on devices without volume buttons
-- Compatibility improvements
-- Other minor improvements
